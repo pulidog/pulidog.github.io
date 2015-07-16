@@ -11,7 +11,7 @@ Geomatico, Engenheiro Agronômo, Desenvolvedor TI SIG.
 </div>
 
 
-## Atualmente.
+### Atualmente.
 
 Trabalho no desenvolvimento de software para Agricultura de precisão,  fazendo uso de  ferramentas Open_source na construção de modelos para viavilizar o uso de nutrientes do solo e correções deste.
 para diversas culturas, tipo Cana de açuar, Milho, Soja. no nivel agroindustrial.
@@ -20,18 +20,6 @@ No meu trabalho como Engenheiro vejo todo  dia a creciente demanda de uso de sof
 
 
 
-
-### Educação
-
-`2015`
-__Scrum__ Curso livre para desenvolvimento agill (online).
-__MIT__ Curso de verão ciencias da computação (online).
-
-`2010-1012`
-__Escola superior de agricultura Luiz de Queiroz, ESALQ, São Paulo, Brasil__  , Mestrado em Solos e Nutrição de Plantas, Area de Geoprocesamento (Orientador: Gerd Sparovek)
-
-`2000-2007`
-__Universidade nacional da Colômbia__  , Engenheria Agronômica  Bogotá,  Colômbia
 
 ### Experiência Profissional
 
@@ -58,6 +46,16 @@ __Monitor do Laboratorio SIG Mestrado de Geomatica__
 Universidade Nacional da Colômbia, Planificação dos módulos SIG e Modelagem de dados Geoespaciais. Planejamento de atividades com
 GPS e métodos tradicionais de amostragem, na Plataforma ArcGis.
 
+
+### Educação
+
+`2010-1012`
+__Escola superior de agricultura Luiz de Queiroz, ESALQ, São Paulo, Brasil__  , Mestrado em Solos e Nutrição de Plantas, Area de Geoprocesamento (Orientador: Gerd Sparovek)
+
+`2000-2007`
+__Universidade nacional da Colômbia__  , Engenheria Agronômica  Bogotá,  Colômbia
+
+
 ### Publicações e Simpósios
 
 ## Geoestatistica
@@ -79,84 +77,61 @@ www.dsr.inpe.br/sbsr2011/files/p1579.pdf
 | <a href="http://www.fca.unesp.br/sgea/Docs2011/21.pdf">Link Resumo</a>
 </div>
 
+## Outros Cursos
+
+`2015`
+__Scrum Agile__ Curso livre para desenvolvimento agill (online).
+
+__Curso de verão ciencias da computação MIT/edx__  (online).
+
+
 ## Habilidades Técnicas
 
-*R
-*mapplotlib
-*LaTeX
-*Git
-*Linux
-*Python
-*Bash
-*Emacs
-*Inkscape
-*Mediawiki
-*HTML and CSS
-*Javascript
+
+* Arcview v3.2 - v10
+* Quantum GIS
+* GRASS
+* R
+* Century Carbon Simulator
+* lib_hyperspectral
+* mapplotlib
+* scpy
+* numpy
+* LaTeX
+* Git
+* Linux
+* Python
+* Bash
+* Emacs
+* Inkscape
+* HTML and CSS
+* Javascript
 
 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+### Idiomas
 
-`1654-1660`
-__The King's School, Grantham.__
+Espanhol americano.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Português Fluente
 
-- Sizar
+Ingles basico-medio
 
-`1667 -
-__Trinity College, Cambridge__
+## Links
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+* <i class="fa fa-envelope"></i> <a href="mailto:javier.pulido@gmx.com">javier.pulido@gmx.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/pulidog">pulidog</a><br />
+*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/JavierPulidog">JavierPulidog</a><br />
+*  <i class="fa fa-linkedin"></i> <a href="    https://br.linkedin.com/pub/javier-pulido/b3/51/631">Javier Pulidog</a><br />
 
 
+## Refereçãs
 
-## Publications
+Disponiveis pelo email
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Available on request.
 
 <!-- ### Footer
 
