@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Pulidogs Blog</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<nav id="myNavbar" class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbarCollapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">Javier Pulido</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="http://pulidog.github.io" target="_blank">Home</a></li>
+                <li><a href="http://pulidog.github.io/cv" target="_blank">Curriculum</a></li>
+                <li><a href="http://pulidog.github.io" target="_blank">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+   <div class="bs-example">
+    <div id="myCarousel" class="carousel slide" >
+      <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+       <!-- Wrapper for carousel items -->
+        <div class="carousel-inner">
+            <div class="active item">
+                <h2>Geoprocessamento Agile</h2>
+                 <div class="container-fluid">
+                <div id="map" class="map"></div>
+                </div>
+                <div class="carousel-caption">
+
+                  <h3>Geo online, para seus dados.</h3>
+
+                  <p>Você não precisa de uma mega maquina, só uma boa red.</p>
+                </div>
+            </div>
+            <div class="item">
+                <h2>EX: Piracicaba sugarcane</h2>
+                <div class="carousel-caption">
+                  <h3>Sim..Online</h3>
+                  <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/pulido.l750bdp5/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoicHVsaWRvIiwiYSI6IjBLU0VNOTgifQ.lg2cY-Jxi2zP8JSA3Fr0Hg'></iframe>
+                  <p>TODO, na nuvem.</p>
+                </div>
+            </div>
+            <div class="item">
+                <h2>Slide 3</h2>
+                <div class="carousel-caption">
+                  <h3>Third slide label</h3>
+                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                </div>
+            </div>
+        </div>
+        <!-- Carousel controls -->
+        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="carousel-control right" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+    </div>
+</div>
+
+<footer class="navbar-default navbar-fixed-bottom">
+
+</footer>
+<script>
+L.mapbox.accessToken = 'pk.eyJ1Ijoic3BhdGlhbCIsImEiOiJINEMxWmw4In0.MXOfvjXYb65iOfIAKcRLbA';
+var map = L.mapbox.map('map', 'mapbox.comic')
+    .setView([-23.533773, -46.625290], 13);
+</script>
+</body>
+</html>
+
+
+<!-- jQuery (necessario para os plugins Javascript Bootstrap)
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>PuliBlog</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+L.mapbox.accessToken = 'pk.eyJ1Ijoic3BhdGlhbCIsImEiOiJINEMxWmw4In0.MXOfvjXYb65iOfIAKcRLbA';
+var map = L.mapbox.map('map', 'mapbox.comic')
+    .setView([-23.533773, -46.625290], 13);
+</script>
+
+</body>
+</html>
+
+-->
