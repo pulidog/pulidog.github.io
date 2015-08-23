@@ -111,10 +111,6 @@ __Graduação em Engenharia Agronômica e Licenciatura em Ciências Agrárias - 
 
 * <i class="fa fa-envelope"></i> <a href="mailto:casonidarocha@gmail.com">casonidarocha@gmail.com</a><br />
 
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/JavierPulidog">JavierPulidog</a><br />
-*  <i class="fa fa-linkedin"></i> <a href="    https://br.linkedin.com/pub/javier-pulido/b3/51/631">Javier Pulidog</a><br />
-
-
 ## Refereçãs
 
 Disponiveis pelo email

@@ -82,7 +82,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+   /* background: #18bc9c;#39ADCC 95.09%)*/
+    background: #39ADCC;
 }
 
 header .container {
@@ -165,10 +166,15 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar-default {
+    background-color: #39ADCC;
+    border-color: transparent;
+}
+/*
 .navbar-default,
 .navbar-inverse {
     border: 0;
-}
+}*/
 
 section {
     padding: 100px 0;
